@@ -13,7 +13,7 @@
 		444130F32BD94F5E0003DE4A /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 444130F22BD94F5E0003DE4A /* Base */; };
 		444130F52BD94F5F0003DE4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 444130F42BD94F5F0003DE4A /* Assets.xcassets */; };
 		444130F82BD94F5F0003DE4A /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 444130F72BD94F5F0003DE4A /* Base */; };
-		44679B0D2BD9718D0077DB3B /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44679B0C2BD9718D0077DB3B /* TestView.swift */; };
+		44679B0D2BD9718D0077DB3B /* ConflictView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44679B0C2BD9718D0077DB3B /* ConflictView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		444130F42BD94F5F0003DE4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		444130F72BD94F5F0003DE4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		444130F92BD94F5F0003DE4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		44679B0C2BD9718D0077DB3B /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
+		44679B0C2BD9718D0077DB3B /* ConflictView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConflictView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				444130F42BD94F5F0003DE4A /* Assets.xcassets */,
 				444130F62BD94F5F0003DE4A /* LaunchScreen.storyboard */,
 				444130F92BD94F5F0003DE4A /* Info.plist */,
-				44679B0C2BD9718D0077DB3B /* TestView.swift */,
+				44679B0C2BD9718D0077DB3B /* ConflictView.swift */,
 			);
 			path = YTP2024Project;
 			sourceTree = "<group>";
@@ -141,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				44679B0D2BD9718D0077DB3B /* TestView.swift in Sources */,
+				44679B0D2BD9718D0077DB3B /* ConflictView.swift in Sources */,
 				444130F02BD94F5E0003DE4A /* ViewController.swift in Sources */,
 				444130EC2BD94F5E0003DE4A /* AppDelegate.swift in Sources */,
 				444130EE2BD94F5E0003DE4A /* SceneDelegate.swift in Sources */,
