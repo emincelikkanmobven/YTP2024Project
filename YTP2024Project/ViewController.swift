@@ -18,7 +18,8 @@ class ViewController: UIViewController {
         print("")
         print("")
         print("")
-        returnTrue()
+        print("One More")
+        print(returnTrue())
     }
 
     private func returnTrue() -> Bool {
