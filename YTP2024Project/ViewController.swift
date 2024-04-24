@@ -12,13 +12,26 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        returnTrue()
+        print("")
+        print("")
+        print("")
+        print("")
+        print("")
+        print("")
+        print("One More")
+        print(returnTrue())
     }
 
     private func returnTrue() -> Bool {
         return true
+        createAnotherFunc()
     }
 
 
+
+
+    func createAnotherFunc() {
+        print("That Prints Something")
+    }
 }
 
