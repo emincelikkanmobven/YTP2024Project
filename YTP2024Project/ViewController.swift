@@ -24,8 +24,14 @@ class ViewController: UIViewController {
 
     private func returnTrue() -> Bool {
         return true
+        createAnotherFunc()
     }
 
 
+
+
+    func createAnotherFunc() {
+        print("That Prints Something")
+    }
 }
 
